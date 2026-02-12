@@ -1,4 +1,4 @@
-# Crowd-Flow-Analyzer-
+# Crowd-Flow-Analyzer
 
 Real-time crowd flow analysis for CCTV feeds using SSD (Single Shot Detector).
 
